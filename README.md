@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rgupta77/Mastering-Big-Data-Analytics-with-PySpark/HEAD)
+
 # Mastering Big Data Analytics with PySpark [Video]
 This is the code repository for [Mastering Big Data Analytics with PySpark [Video]]( https://www.packtpub.com/data/mastering-big-data-analytics-with-pyspark-video), published by [Packt](https://www.packtpub.com/?utm_source=github ). It contains all the supporting project files necessary to work through the video course from start to finish.<br/>
 Authored by: [Danny Meijer](https://www.linkedin.com/in/dannydatascientist)
